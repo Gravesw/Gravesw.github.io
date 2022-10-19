@@ -6,6 +6,6 @@ http://example.com/2022/10/10/%E4%B8%80%E4%BA%9B%E6%83%B3%E8%AF%B4%E7%9A%84/
 http://example.com/2022/10/10/SCY-eHR-OA-%E8%AF%B7%E5%81%87%E6%8E%A5%E5%8F%A3/
 http://example.com/2022/10/13/hello-world/
 http://example.com/
-http://example.com/tags/Bug/
 http://example.com/tags/First-Post-In-This-Website/
+http://example.com/tags/Bug/
 http://example.com/tags/Daily-Life/
