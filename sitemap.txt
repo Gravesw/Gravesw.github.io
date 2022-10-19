@@ -1,3 +1,4 @@
+http://example.com/2022/10/11/TakeOutProject-0/
 http://example.com/2022/09/15/My-New-Post/
 http://example.com/2022/10/10/Could-not-autowire-No-beans-of-%E2%80%98XXXX%E2%80%98type-found%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/
 http://example.com/2022/10/10/%E4%B8%80%E4%BA%9B%E6%83%B3%E8%AF%B4%E7%9A%84/
