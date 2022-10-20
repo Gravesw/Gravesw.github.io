@@ -29,15 +29,6 @@
   </url>
   
   <url>
-    <loc>http://example.com/2022/09/15/My-New-Post/</loc>
-    
-    <lastmod>2022-10-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/2022/10/10/Could-not-autowire-No-beans-of-%E2%80%98XXXX%E2%80%98type-found%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</loc>
     
     <lastmod>2022-10-11</lastmod>
@@ -76,7 +67,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2022-10-19</lastmod>
+    <lastmod>2022-10-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -84,21 +75,14 @@
   
   <url>
     <loc>http://example.com/tags/Bug/</loc>
-    <lastmod>2022-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/First-Post-In-This-Website/</loc>
-    <lastmod>2022-10-19</lastmod>
+    <lastmod>2022-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/Daily-Life/</loc>
-    <lastmod>2022-10-19</lastmod>
+    <lastmod>2022-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

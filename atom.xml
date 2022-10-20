@@ -124,19 +124,4 @@
     
   </entry>
   
-  <entry>
-    <title>My New Post</title>
-    <link href="http://example.com/2022/09/15/My-New-Post/"/>
-    <id>http://example.com/2022/09/15/My-New-Post/</id>
-    <published>2022-09-15T09:10:05.000Z</published>
-    <updated>2022-10-12T01:06:51.072Z</updated>
-    
-    
-    
-    
-    
-    <category term="First Post In This Website" scheme="http://example.com/tags/First-Post-In-This-Website/"/>
-    
-  </entry>
-  
 </feed>
